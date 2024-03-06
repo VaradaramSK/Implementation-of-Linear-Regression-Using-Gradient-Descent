@@ -92,19 +92,36 @@ RegisterNumber:  202223040232
 ```
 
 ## Output:
+## Output:
 Profit prediction:
-![linear regression using gradient descent](sam.png)
+
+![Screenshot 2023-09-14 083451](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/ee8f17a5-0da1-4cac-a04e-7cc713fa5bc0)
+
 Function output:
-![image](https://github.com/VaradaramSK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144356171/6370ad19-1ff3-4c86-ab97-8ea14fe19b6f)
+
+![Screenshot 2023-09-14 083501](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/e782a2c3-7adf-48fc-b15d-8a5a27773e82)
+
 Gradient descent:
-![image](https://github.com/VaradaramSK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144356171/9b8f35ee-7c96-459e-af36-bc406c65a8eb)
+
+![Screenshot 2023-09-14 083509](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/5abb3f34-b344-49d2-aa64-fcebca3f3acc)
+
 Cost function using Gradient Descent:
-![image](https://github.com/VaradaramSK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144356171/24cdf686-26c5-48ff-be4e-8a2f7ca1438c)
+
+![Screenshot 2023-09-14 083517](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/213be6b8-a5d8-433f-bcd0-75f73edbff98)
+
 Linear Regression using Profit Prediction:
-![image](https://github.com/VaradaramSK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144356171/c430fc55-f0bf-414e-ac53-c3c3e7c96813)
+
+![Screenshot 2023-09-14 083527](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/d41d1d08-52d9-4a93-88cf-11ca7fdb544b)
+
 Profit Prediction for a population of 35000:
-![image](https://github.com/VaradaramSK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144356171/c0f4d34b-b62a-4de9-9717-f8ec02a8f3d4)
+
+![Screenshot 2023-09-14 083537](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/43f982a1-bbcc-4910-9ef0-794ff2421d33)
+
 Profit Prediction for a population of 70000 :
-![image](https://github.com/VaradaramSK/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144356171/49bb3b5c-c33d-4e59-967d-0e274bce103a)
+
+![Screenshot 2023-09-14 083544](https://github.com/SriramS22/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119094390/f1cf50b4-0a6e-4d34-bb8f-683c9b6923ab)
+
 ## Result:
+Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
+
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
